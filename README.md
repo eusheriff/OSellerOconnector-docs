@@ -1,25 +1,31 @@
 # OSeller OConnector
 
-Sales automation and product intelligence platform within the OConnector ecosystem.
+🌐 Live Platform  
+https://oseller.oconnector.tech
+
+📦 Part of the OConnector Ecosystem  
+https://oconnector.tech
 
 ## Overview
-OSeller automates product management, pricing intelligence, and sales workflows, enabling scalable and data-driven commerce operations.
+OSeller is an **AI-enabled sales automation platform** focused on e-commerce and B2B sales workflows.
 
-## Core Capabilities
-- Product catalog management
-- Automated sales workflows
-- Pricing intelligence and optimization
-- Integration with bots and POS
+It supports intelligent product handling, automated offers, and sales flow optimization.
+
+## Key Features
+- AI-assisted sales workflows
+- Product and order automation
+- Integration with messaging channels
+- Sales performance analytics
 
 ## Architecture
-- Event-driven services
-- Modular sales pipelines
-- Designed for multi-tenant SaaS
+- Event-driven sales pipelines
+- AI-based decision logic
+- Modular SaaS components
 
 ## Tech Stack
 - Backend: TypeScript
-- Cloud: Serverless
-- Data: Relational databases
+- AI: LLM-based logic
+- Cloud: Serverless runtime
 
 ## Status
-Production-ready.
+Active production usage.
